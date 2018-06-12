@@ -4,5 +4,6 @@
 
 [Can mybatis support mapper xml extend feature?](https://github.com/mybatis/mybatis-3/issues/35)
 
+http://www.mybatis.org/mybatis-3/zh/
 
 尝试解决项目依赖后共用
